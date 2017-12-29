@@ -1,7 +1,5 @@
 ## About
 
-[![Join the chat at https://gitter.im/Shougo/denite.nvim](https://badges.gitter.im/Shougo/denite.nvim.svg)](https://gitter.im/Shougo/denite.nvim?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Denite is a dark powered plugin for Neovim/Vim to unite all interfaces.
 It can replace many features or plugins with its interface.
 It is like a fuzzy finder, but is more generic.
