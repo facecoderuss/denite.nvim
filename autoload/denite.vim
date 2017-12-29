@@ -1,8 +1,8 @@
 "=============================================================================
 " FILE: denite.vim
-" AUTHOR: Shougo Matsushita <Shougo.Matsu at gmail.com>
 " License: MIT license
 "=============================================================================
+
 
 function! denite#initialize() abort
   return denite#init#_initialize()
