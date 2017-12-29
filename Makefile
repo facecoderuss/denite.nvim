@@ -3,7 +3,6 @@ export THEMIS_VIM  := nvim
 export THEMIS_ARGS := -e -s --headless
 export THEMIS_HOME := ./vim-themis
 
-
 install: vim-themis
 	pip install neovim --upgrade
 	pip install pytest --upgrade
