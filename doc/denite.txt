@@ -1,7 +1,6 @@
 *denite.txt*	Dark powered asynchronous unite all interfaces for NeoVim/Vim.
 
 Version: 0.5
-Author:  Shougo <Shougo.Matsu at gmail.com>
 License: MIT license
 
 CONTENTS						*denite-contents*
@@ -11,10 +10,10 @@ Usage			|denite-usage|
 Install			|denite-install|
 Configuration Examples	|denite-examples|
 Interface		|denite-interface|
-  Commands		  |denite-commands|
-  Key mappings		  |denite-key-mappings|
-  Functions		  |denite-functions|
-  Options		  |denite-options|
+Commands		|denite-commands|
+Key mappings		|denite-key-mappings|
+Functions		|denite-functions|
+Options                 |denite-options|
 Sources			|denite-sources|
 Kinds			|denite-kinds|
 Actions			|denite-actions|
