@@ -1,9 +1,3 @@
-"=============================================================================
-" FILE: helper.vim
-" AUTHOR: Shougo Matsushita <Shougo.Matsu at gmail.com>
-" License: MIT license
-"=============================================================================
-
 function! denite#helper#complete(arglead, cmdline, cursorpos) abort
   let _ = []
 
